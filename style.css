@@ -1,17 +1,29 @@
 .main-heading {
-    color: rgb(255, 97, 23);
-    text-align: central;
+  color: #19323C;
+  text-align: central;
 }
 
 .secondary-heading {
-    color: rgb(230, 0, 134);
+  color:#A93F55;
 }
 
 body {
-    background: rgb(255, 237, 166);
+  background: #fdd26e;
 }
 
-.nav-heading {
-    background-color: rgb(245, 129, 144);
-    
+.navigation {
+background: #EF6461;
+padding: 16px;
+border-radius: 6px;
+}
+
+.navigation__link {
+  display: inline-block;
+  color:#19323C;
+  margin-right: 20px;
+}
+
+.navigation__link--homepage {
+  background:#fdd26e;
+  color: #A93F55;
 }
