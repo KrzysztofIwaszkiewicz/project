@@ -27,3 +27,22 @@ border-radius: 6px;
   background:#fdd26e;
   color: #A93F55;
 }
+
+.article {
+  padding: 13px;
+  border: 2px solid #EF6461;
+  margin-bottom: 16px;
+}
+
+.article__title {
+  color: #A93F55;
+}
+
+.article__description {
+  color:#19323C;
+}
+
+.main {
+  max-width: 1000px;
+  margin: 0 auto;
+}
